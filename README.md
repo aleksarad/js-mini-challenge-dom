@@ -26,7 +26,7 @@ Figure out what you need to change to give Javascript access to the `h1#header` 
 
 **YOUR NOTES**
 ```
-
+defer when linking JS script so code doesn't run until after load
 ```
 
 ## Deliverable 2

@@ -1,32 +1,20 @@
-const PLAYERS = [
+const POPSTARS = [
   {
-    number: 11,
-    name: "Mo Salah",
-    nickname: "The Egyptian King",
-    photo: "https://cdn.cnn.com/cnnnext/dam/assets/190501145802-mo-salah-exlarge-169.jpg"
+    age: 50,
+    name: "Mariah Carey",
+    nickname: "Mimi",
+    photo: "https://upload.wikimedia.org/wikipedia/en/8/8f/Mariah_Carey_-_Caution.png"
   },
   {
-    number: 9,
-    name: "Roberto Firmino",
-    nickname: "Bobby Chompers",
-    photo: "https://vignette.wikia.nocookie.net/liverpoolfc/images/f/f3/RFirmino2019.jpeg/revision/latest/scale-to-width-down/340?cb=20190807042207"
+    age: 37,
+    name: "Nicki Minaj",
+    nickname: "Barbie",
+    photo: "https://i.pinimg.com/236x/be/eb/25/beeb258bb03d4f551a7ffab9673d2356--nicki-minaj-album-cover-truffle-butter.jpg"
   },
   {
-    number: 66,
-    name: "Trent Alexander-Arnold",
-    nickname: "Young Trent",
-    photo: "https://tbrfootball.com/static/uploads/2020/03/GettyImages-1196162385.jpg"
-  },
-  {
-    number: 14,
-    name: "Jordan Henderson",
-    nickname: "Hendo",
-    photo: "https://icdn.empireofthekop.com/wp-content/uploads/2020/03/Jordan-Henderson-640x426.jpg"
-  },
-  {
-    number: 7,
-    name: "Raheem Sterling",
-    nickname: "Raz",
-    photo: "https://talksport.com/wp-content/uploads/sites/5/2019/03/GettyImages-1134871855.jpg?strip=all&w=960&quality=100"
+    age: 26,
+    name: "Ariana Grande",
+    nickname: "Ari",
+    photo: "https://upload.wikimedia.org/wikipedia/en/d/dd/Thank_U%2C_Next_album_cover.png"
   }
 ]
